@@ -1,0 +1,34 @@
+
+git config --global user.name "bepec-git"
+git config --global user.email "info@bepec.in"
+git config --list
+
+git
+git init 
+git status 
+git add . /(git add file.txt)
+git commit -m "some message"
+git log( to get detailed commit information)
+git log --oneline (to get oneline commit info)
+
+github
+git remote add origin url 
+git push -u origin master
+git clone url
+git pull origin 
+
+branch
+git branch 
+git brach newfeature
+git checkout branchname
+
+
+merge 
+git merge newfeature ( you need be in master)
+
+
+
+
+
+
+
